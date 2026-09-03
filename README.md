@@ -8,14 +8,14 @@
   <img src="https://komarev.com/ghpvc/?username=EesherJ39&style=flat-square&color=2f81f7&label=Profile+views" alt="Profile views" />
 </div>
 
-## I build software that stays correct when systems get messy.
+## About
 
-I'm a Computer Science student at the **University of Guelph** focused on distributed systems, developer infrastructure, and real-time applications. I enjoy working below the polished interface: failure recovery, concurrency, durability, observability, and the tests that prove a system behaves as claimed.
+I'm a Computer Science student at the **University of Guelph** focused on software engineering, distributed systems, developer infrastructure, and real-time applications. My project work emphasizes failure recovery, concurrency, durability, observability, and reproducible testing.
 
 - **Seeking:** Summer 2027 software engineering internships
 - **Currently exploring:** reliability engineering, distributed protocols, developer productivity, and performance
 - **Community:** Volunteer and hackathon participant with Google Developer Groups on Campus - University of Guelph
-- **Working style:** design the failure model, build the system, break it deliberately, then measure the result
+- **Engineering approach:** define failure modes, test adversarial cases, and report reproducible measurements
 
 ## Featured engineering work
 
@@ -73,8 +73,6 @@ I'm a Computer Science student at the **University of Guelph** focused on distri
 
 `Java` `C` `C++` `C#` `Python` `TypeScript` `JavaScript` `SQL` `React` `ASP.NET Core` `Node.js` `PostgreSQL` `SQLite` `Redis` `Docker` `CMake` `GitHub Actions` `Linux`
 
-> **Proof over claims.** The featured repositories include reproducible tests, CI, architecture notes, security boundaries, benchmark methodology, and documented limitations.
+## Verification
 
-<div align="center">
-  <sub>Interested in distributed systems, developer infrastructure, or reliability work? <a href="mailto:eeshersjanda@gmail.com">Let's talk.</a></sub>
-</div>
+The featured repositories include reproducible tests, CI, architecture notes, security boundaries, benchmark methodology, and documented limitations.

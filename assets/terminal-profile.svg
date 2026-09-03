@@ -53,11 +53,11 @@
     <text x="50" y="146" class="mono value">./focus --current</text>
   </g>
   <g class="line l4">
-    <text x="28" y="176" class="mono purple">distributed systems</text>
-    <text x="236" y="176" class="mono muted">|</text>
-    <text x="256" y="176" class="mono purple">developer infrastructure</text>
-    <text x="496" y="176" class="mono muted">|</text>
-    <text x="516" y="176" class="mono purple">real-time software</text>
+    <text x="28" y="176" class="mono purple">software engineering</text>
+    <text x="238" y="176" class="mono muted">|</text>
+    <text x="258" y="176" class="mono purple">distributed systems</text>
+    <text x="466" y="176" class="mono muted">|</text>
+    <text x="486" y="176" class="mono purple">developer infrastructure</text>
   </g>
   <g class="line l5">
     <text x="28" y="216" class="mono prompt">$</text>
@@ -69,7 +69,6 @@
   </g>
   <g class="line l7">
     <text x="28" y="286" class="mono prompt">$</text>
-    <text x="50" y="286" class="mono value">build --for reliability</text>
-    <rect x="287" y="270" width="10" height="20" rx="1" fill="#C9D1D9" class="cursor"/>
+    <rect x="50" y="270" width="10" height="20" rx="1" fill="#C9D1D9" class="cursor"/>
   </g>
 </svg>
