@@ -7,7 +7,7 @@
   <a href="mailto:eeshersjanda@gmail.com"><img src="https://img.shields.io/badge/Email-eeshersjanda%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
-## About
+## Building reliable software—and testing what happens when it fails
 
 I'm a Computer Science student at the **University of Guelph** focused on software engineering, distributed systems, developer infrastructure, and real-time applications. My project work emphasizes failure recovery, concurrency, durability, observability, and reproducible testing.
 
