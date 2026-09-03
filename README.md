@@ -5,7 +5,6 @@
 
   <a href="https://www.linkedin.com/in/eesher-singh-janda-b8439434a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:eeshersjanda@gmail.com"><img src="https://img.shields.io/badge/Email-eeshersjanda%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=EesherJ39&style=flat-square&color=2f81f7&label=Profile+views" alt="Profile views" />
 </div>
 
 ## About
@@ -13,9 +12,8 @@
 I'm a Computer Science student at the **University of Guelph** focused on software engineering, distributed systems, developer infrastructure, and real-time applications. My project work emphasizes failure recovery, concurrency, durability, observability, and reproducible testing.
 
 - **Seeking:** Summer 2027 software engineering internships
-- **Currently exploring:** reliability engineering, distributed protocols, developer productivity, and performance
+- **Technical interests:** reliability engineering, distributed protocols, developer productivity, and performance
 - **Community:** Volunteer and hackathon participant with Google Developer Groups on Campus - University of Guelph
-- **Engineering approach:** define failure modes, test adversarial cases, and report reproducible measurements
 
 ## Featured engineering work
 
@@ -64,7 +62,7 @@ I'm a Computer Science student at the **University of Guelph** focused on softwa
       <p>
         <a href="https://github.com/EesherJ39/RepoLens/actions/workflows/ci.yml"><img src="https://github.com/EesherJ39/RepoLens/actions/workflows/ci.yml/badge.svg" alt="RepoLens CI" /></a>
       </p>
-      <sub>A supporting portfolio project; the three systems above are the current resume focus.</sub>
+      <sub>Indexes four languages and serves ranked symbol and dependency queries through a documented REST API.</sub>
     </td>
   </tr>
 </table>
