@@ -4,7 +4,7 @@
   <br />
 
   <a href="https://www.linkedin.com/in/eesher-singh-janda-b8439434a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:eeshersjanda@gmail.com"><img src="https://img.shields.io/badge/Email-eeshersjanda%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:ejanda@uoguelph.ca"><img src="https://img.shields.io/badge/Email-ejanda%40uoguelph.ca-EA4335?style=flat-square" alt="Email ejanda@uoguelph.ca" /></a>
 </div>
 
 ## Building reliable software—and testing what happens when it fails
