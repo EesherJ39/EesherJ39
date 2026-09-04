@@ -3,6 +3,7 @@
 
   <br />
 
+  <a href="https://eesherj.com"><img src="https://img.shields.io/badge/Portfolio-eesherj.com-2455E6?style=flat-square" alt="Portfolio eesherj.com" /></a>
   <a href="https://www.linkedin.com/in/eesher-singh-janda-b8439434a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ejanda@uoguelph.ca"><img src="https://img.shields.io/badge/Email-ejanda%40uoguelph.ca-EA4335?style=flat-square" alt="Email ejanda@uoguelph.ca" /></a>
 </div>
@@ -16,6 +17,8 @@ I'm a Computer Science student at the **University of Guelph** focused on softwa
 - **Community:** Volunteer and hackathon participant with Google Developer Groups on Campus - University of Guelph
 
 ## Featured engineering work
+
+Explore the [interactive demos and engineering case studies on my portfolio](https://eesherj.com/#work).
 
 <table>
   <tr>
