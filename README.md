@@ -4,6 +4,7 @@
   <br />
 
   <a href="https://eesherj.com"><img src="https://img.shields.io/badge/Portfolio-eesherj.com-2455E6?style=flat-square" alt="Portfolio eesherj.com" /></a>
+  <a href="https://eesherj.com/Eesher_Janda_Resume.pdf"><img src="https://img.shields.io/badge/Resume-View_PDF-2455E6?style=flat-square" alt="View current resume" /></a>
   <a href="https://www.linkedin.com/in/eesher-singh-janda-b8439434a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ejanda@uoguelph.ca"><img src="https://img.shields.io/badge/Email-ejanda%40uoguelph.ca-EA4335?style=flat-square" alt="Email ejanda@uoguelph.ca" /></a>
 </div>
